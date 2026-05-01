@@ -1,0 +1,7 @@
+aiogram==3.13.0
+aiosqlite
+aiohttp
+python-dotenv
+fpdf2
+pdfplumber
+fonttools
